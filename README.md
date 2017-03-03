@@ -1,6 +1,6 @@
 # GithubRepoFinder
 # Lab 3 - *GithubRepoFinder*
-# Creators: Sandeep Raghunandhan, Vicky Tang
+# Creators: Sandeep Raghunandhan, Oscar Reyes
 
 **GithubRepoFinder** is a GitHub Repo search app using the [GitHub API](https://developer.github.com/v3/search/#search-repositories).
 
